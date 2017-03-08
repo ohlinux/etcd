@@ -145,3 +145,14 @@ In [hyper.sh][hyper.sh], the container service is backed by [hypernetes][hyperne
 
 [hypernetes]:https://github.com/hyperhq/hypernetes
 [Hyper.sh]:https://www.hyper.sh
+
+## Baidu Waimai 
+
+- *Application*: SkyDNS,UDC,CMDB,distributed system,Apiserver, etc.
+- *Launched*: April 2016
+- *Cluster Size*: 3 cluster of 5members
+- *Order of Data Size*: several gigabytes
+- *Operator*: Baidu Waimai  Operations Department
+- *Environment*: CentOS6.5
+- *Backups*: bakcup script 
+
